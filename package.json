@@ -14,4 +14,8 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   }
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/datso/learnReactPractice.git"
+  }
 }
